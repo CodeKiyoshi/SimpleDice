@@ -44,3 +44,9 @@ footer {
     font-family: 'Indie Flower', cursive;
     font-size: 2rem;
 }
+button {
+    width: 50%;
+    height: 5rem;
+    border-radius: 25px;
+    background: rgb(187, 189, 173);
+}
